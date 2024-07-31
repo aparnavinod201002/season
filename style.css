@@ -1,0 +1,168 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: "Noto Sans", sans-serif;
+}
+body{
+    background-color: white;
+}
+#heading{
+   font-weight: bolder;
+   font-size: 120px;
+   text-align: center;
+   color: white;
+   text-shadow: 2px 4px 6px gray;
+}
+.parallax-1{
+    background-image: url(https://base-prod.rspb-prod.magnolia-platform.com/.imaging/focalpoint/_WIDTH_x_HEIGHT_/dam/jcr:d80c420a-81c4-4d4d-ad73-18326c63145c/1055642495-Species-Sunflower-field-at-sunrise.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+  
+}
+#sec1{
+    background-color: darkkhaki;
+}
+.parallax-inner{
+    padding: 20% 0;
+}
+#main1{
+    color: white;
+    text-shadow: 2px 4px 6px gray;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}
+#para1{
+    text-align: center;
+    padding: 5px;
+    padding-bottom: 20px;
+color: white;
+}
+.parallax-2{
+    background-image: url(https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2019/07/27114414/Summer-season-1024x576.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+   top: 0%;
+
+  
+}
+#heading2{
+    font-weight: bolder;
+    font-size: 120px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 4px 6px gray;
+ }
+ #sec2{
+    background-color: darkgoldenrod;
+}
+#para2{
+    text-align: center;
+    padding: 5px;
+    padding-bottom: 20px;
+color: white;
+}
+#main2{
+    color: white;
+    text-shadow: 2px 4px 6px gray;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}
+/* Monsoon season */
+.parallax-3{
+    background-image: url(https://assets.cntraveller.in/photos/612497bc9edbbdb5b8c71879/master/w_1600%2Cc_limit/monsoon-experiences-5.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+   top: 0%;
+
+  
+}
+#heading3{
+    font-weight: bolder;
+    font-size: 120px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 4px 6px gray;
+ }
+ #sec3{
+    background-color: lightgreen;
+}
+#para3{
+    text-align: center;
+    padding: 5px;
+    padding-bottom: 20px;
+color: white;
+}
+#main3{
+    color: white;
+    text-shadow: 2px 4px 6px gray;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}
+/* Winter season */
+.parallax-4{
+    background-image: url(https://static01.nyt.com/images/2024/02/22/multimedia/22travel-india-promo/22travel-india-vpbk-superJumbo.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+   top: 0%;
+
+  
+}
+#heading4{
+    font-weight: bolder;
+    font-size: 120px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 4px 6px gray;
+ }
+ #sec4{
+    background-color: lightblue;
+}
+#para4{
+    text-align: center;
+    padding: 5px;
+    padding-bottom: 20px;
+color: white;
+}
+#main4{
+    color: white;
+    text-shadow: 2px 4px 6px gray;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}
+/* Autumn season */
+.parallax-5{
+    background-image: url(https://loving-newyork.com/wp-content/uploads/2023/09/230908112907001-Fall-in-Central-Park-NYC.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+   top: 0%;
+
+  
+}
+#heading5{
+    font-weight: bolder;
+    font-size: 120px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 4px 6px gray;
+ }
+ #sec5{
+    background-color: orange;
+}
+#para5{
+    text-align: center;
+    padding: 5px;
+    padding-bottom: 20px;
+color: white;
+}
+#main5{
+    color: white;
+    text-shadow: 2px 4px 6px gray;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}
